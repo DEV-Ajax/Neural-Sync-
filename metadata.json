@@ -1,0 +1,6 @@
+{
+  "name": "Neural Flashcards",
+  "description": "AI-Driven Adaptive Learning & Interactive Flashcard platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
